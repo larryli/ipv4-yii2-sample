@@ -2,7 +2,8 @@
   "name": "larryli/ipv4-yii2-sample",
   "description": "IP v4 中国城市地址库 Yii2 示例",
   "homepage": "https://github.com/larryli/ipv4-yii2-sample",
-  "minimum-stability": "beta",
+  "minimum-stability": "stable",
+  "prefer-stable": true,
   "type": "project",
   "license": "MIT",
   "authors": [
@@ -13,7 +14,7 @@
   ],
   "require": {
     "php": ">=5.4",
-    "larryli/ipv4-yii2": "~1.0.0-beta",
+    "larryli/ipv4-yii2": "~1.0",
     "yiisoft/yii2": "~2.0",
     "yiisoft/yii2-bootstrap": "*",
     "yiisoft/yii2-swiftmailer": "*"
