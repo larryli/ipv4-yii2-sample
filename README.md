@@ -1,11 +1,11 @@
 # IP v4 Yii2 示例
 
-演示地址： https://ipv4.larryli.cn
+演示地址： https://ipv4-larryli.c9users.io
 
 ## 通过 composer 安装
 
 ```shell
-composer global require "fxp/composer-asset-plugin:~1.0.0"
+composer global require "fxp/composer-asset-plugin:~1.1.0"
 composer create-project --prefer-dist --stability=stable larryli/ipv4-yii2-sample sample
 ```
 
