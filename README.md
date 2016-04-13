@@ -1,6 +1,6 @@
 # IP v4 Yii2 示例
 
-演示地址： https://ipv4-larryli.c9users.io
+演示地址： https://ipv4-larryli.rhcloud.com/
 
 ## 通过 composer 安装
 
